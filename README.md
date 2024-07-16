@@ -1,1 +1,1 @@
-# ebpg_funpak
+This repository contains all sorts of EBPG goodies, including weekly_check, gpfsort, gpfmerge, calc.py, align_window, find_edge, find_square, set_current, perfcheck summary program, cjob installation scripts, utilities for setting high beam currents, and the dose_matrix program. Even more: correlate.py for using correlation alignment, and a ppt file of piece-part holder designs.
